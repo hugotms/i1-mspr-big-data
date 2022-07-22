@@ -1,0 +1,8 @@
+pandas
+numpy
+pymysql
+sqlalchemy
+sklearn.model_selection
+sklearn
+sklearn.ensemble
+sklearn.metrics
